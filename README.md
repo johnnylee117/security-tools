@@ -5,7 +5,6 @@
 1.用途：用于pycharm永久激活
 2.使用步骤
 * 下载完成后，将 zip 插件包拖入 IDE 界面中。如果无法拖动安装，你可以在Settings/Preferences... -> Plugins 里手动安装插件（Install Plugin From Disk...）
-* ![alt 样例](https://uploader.shimo.im/f/lssPkIKqMIr922V6.png!thumbnail)
 * PS: macOS 系统可能会自动解压，然后把zip包丢进回收站, 需要注意以下~插件安装成功后，右下角会提示安装成功。同时安装成功之后在菜单栏  Help  中会多一个  Eval Reset 按钮。点击之后会出现三个按钮。
 * 勾选项： Auto reset before per restart 如果勾选了，则自勾选后每次重启/退出IDE时会自动重置试用信息，你无需做额外的事情。（此为自动重置方式）按钮：
 * Reload 用来刷新界面上的显示信息。
