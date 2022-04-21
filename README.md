@@ -2,7 +2,7 @@
 ## iov and cyber security tools 
 
 一、ide-eval-resetter-2.1.6.zip  
-1.用途：用于pycharm永久激活
+1.用途：用于pycharm永久激活  
 2.使用步骤
 * 下载完成后，将 zip 插件包拖入 IDE 界面中。如果无法拖动安装，你可以在Settings/Preferences... -> Plugins 里手动安装插件（Install Plugin From Disk...）
 * PS: macOS 系统可能会自动解压，然后把zip包丢进回收站, 需要注意以下~插件安装成功后，右下角会提示安装成功。同时安装成功之后在菜单栏  Help  中会多一个  Eval Reset 按钮。点击之后会出现三个按钮。
