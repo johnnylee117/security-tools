@@ -1,7 +1,7 @@
 # security-tools
 ## iov and cyber security tools 
 
-一、ide-eval-resetter-2.1.6.zip
+一、ide-eval-resetter-2.1.6.zip  
 1.用途：用于pycharm永久激活
 2.使用步骤
 * 下载完成后，将 zip 插件包拖入 IDE 界面中。如果无法拖动安装，你可以在Settings/Preferences... -> Plugins 里手动安装插件（Install Plugin From Disk...）
